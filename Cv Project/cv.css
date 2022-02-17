@@ -1,0 +1,130 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile-img{
+    ]width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    
+}
+.hd-bio{
+    float: left;
+    padding: 30px;
+}
+h1, h2,h3,h4,h5,h6{
+    color: teal;
+
+}
+.hd-bio1{
+    float: right;
+    padding: 30px;
+}
+.hd-bio1 ul li a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.hd-bio1 ul{
+    list-style: none;
+    
+}
+.hd-bio1 ul li a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+    margin-bottom: none;
+}
+.personal1{
+    float: left;
+    width: 30%;
+}
+.personal2{
+    float: right;
+    width: 70%;
+    
+}
+.clear{
+    clear: both;
+}
+.cm-hr{
+    border: 1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    margin-bottom: none;
+}
+.work-ex1{
+    width: 30%;
+    float: left;
+}
+.work-ex2{
+    width: 70%;
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.cm-hr{
+    border: 1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    margin-bottom: none;
+}
+.edu-ex1{
+    width: 30%;
+    float: left;
+}
+.edu-left{
+    width: 35%;
+    float: left;
+}
+.edu-right{
+    width: 35%;
+    float: right;
+   
+}
+.clear{
+    clear: both;
+}
+.cm-hr{
+    border: 1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    margin-bottom: none;
+}
+.fot-1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.fot-1 ul li a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin: 20px;
+}
+.fot-1 ul li a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
